@@ -52,6 +52,7 @@ function getInputById(id){
     return currentNumber;
 }
 
+
 //withdraw Section
 const withdrawBtn = document.getElementById("addWithdraw");
 withdrawBtn.addEventListener("click", function(){
